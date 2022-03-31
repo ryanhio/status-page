@@ -65,7 +65,7 @@ params:
   ok: "#008000"
   categories:
     - name: Hovr
-      untitled: true
+      untitled: false
       closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
