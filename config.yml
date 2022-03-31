@@ -39,15 +39,15 @@ params:
   systems:
     - name: gethovr.com Website
       description: ""
-      category: Hovr
+      category: Uncategorized
     - name: hiosocial.com Website
-      category: Hovr
+      category: Uncategorized
     - name: Hovr Main Backend
-      category: Hovr
+      category: Uncategorized
     - name: Video Match Server
-      category: Hovr
+      category: Uncategorized
     - name: Image Storage
-      category: Hovr
+      category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -64,7 +64,7 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Hovr
+    - name: Uncategorized
       untitled: false
       closed: true
   description: We continuously monitor the status of our services and if there are
